@@ -1,4 +1,4 @@
-# Stock News and Sentiment Analyzer
+# Stock Insights Generator
 
 This Python script retrieves stock data and news sentiment for a specified stock using the Alpha Vantage API. It fetches the latest stock data, including the percentage change in stock price, and retrieves the top news headlines related to the specified stock, along with a brief summary of each news article. The script then generates a text file containing this information.
 
